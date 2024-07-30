@@ -13,3 +13,4 @@ Changes:
 - Higher Stamina and Faster Stamina Regen
 - Xian now has Regen Abilities in place of her medpack ones from before
 - SamB has Blade Master Skill and it decreases Sharp weapon stamina by 25%
+- 1000 HP
