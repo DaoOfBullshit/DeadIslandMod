@@ -1,0 +1,24 @@
+Prerequisite:
+1.) 7-zip and Winrar installed
+
+Install Guide:
+
+Setup:
+1.) Make a folder anywhere on your pc (I prefer using a hard drive for this stuff)
+2.) Now go to your Dead Island game directory (Rick click Dead Island in steam library, go to manage, then browse local files)
+   2a.) Open the DI folder and you should see a Data0.pak, copy it 
+   2b.) Go back to the folder you made earlier (not the game directory)
+3.) Make 2 more folders inside with 1 titled vanilla backup and the other as temp 
+4.) Copy the Data0.pak into both folders
+5.) go into the temp folder and extract the pak (right click --> 7-zip --> extract here)
+
+Changing the Files:
+1.) Download the github repository into the temp folder and extract it there using either winrar or 7-zip
+2.) Replace the files in the unzipped folder
+   2a.) Copy all of the xml files (NOT the mp4 or txt files)
+   2b.) Go to data0 --> skills --> paste and replace
+3.) compressing the folder back into a pak for use
+   3a.) Right click on the data0 folder --> add to archive --> change archive name to data0.pak --> archive format on zip
+	 --> compression level on 0 - store --> update mode on add and replace files --> click ok (if it asks to replace pak say yes)
+4.) Copy and paste the new pak to the game directory and replace the old pak
+5.) Now you should have a vanilla backup in case something went wrong or you simply want to go back to vanilla, enjoy :)
