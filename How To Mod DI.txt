@@ -1,0 +1,12 @@
+Prerequisite:
+- 7-zip installed
+
+How To Mod Dead Island:
+1.) open the archive of data0.pak
+2.) go to skills folder and you can mess around with the values in all the xml files (not sure how to mod the scr and phx files)
+3.) default_skills.xml has most of your player values like run speed, attack speed, weapon dmg, and so on
+4.) once you are done with your changes you can just save and update the archive and see the changes in game
+
+Notes: 
+1.) All you need is regular old notepad for these kind of changes
+2.) do not put speed at 15 or above there is a collision threshold that makes you take dmg from running too fast
